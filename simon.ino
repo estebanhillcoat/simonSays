@@ -1,13 +1,6 @@
-/*This sketch is a simple version of the famous Simon Says game. You can  use it and improved it adding
-levels and everything you want to increase the  diffuculty!
+/*Simon para inova
 
-There are five buttons connected to A0, A1, A2, A3 and A4.
-The  buttons from A0 to A3 are used to insert the right sequence while A4 to start the  game.
-
-When a wrong sequence is inserted all the leds will blink for three  time very fast otherwhise the
-inserted sequence is correct.
-
-Hardware needed:
+Hardware necesario: 
 5x  pushbuttons
 1x Blue led
 1x Yellow led
